@@ -1,7 +1,7 @@
 # Project Indigo
 ## Setup
 Install CMake.  
-Install MinGW gcc and g++ compiler.  
+Install MinGW gcc and g++ compiler. *Make sure it's the correct version!*  
 Download the SFML GCC 32-bit package.  
 Create sfml directory in base directory.  
 Copy /bin /lib /include to sfml directory in project.  
