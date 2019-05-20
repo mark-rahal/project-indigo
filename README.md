@@ -7,7 +7,7 @@
     - Create a directory for MinGW (Recommended to use `C:\MinGW`)  
     - Copy the contents of MinGW to this directory.  
     - Edit the system Path variable (add `C:\MinGW\bin`)  
-- Download the SFML GCC 32-bit package.
+- Download the SFML MinGW 32-bit package.
     - Create sfml directory in base directory.  
     - Copy /bin /lib /include to sfml directory in project.  
 - Run CMake build.  
